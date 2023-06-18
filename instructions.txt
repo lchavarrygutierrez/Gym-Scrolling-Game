@@ -1,0 +1,26 @@
+A description of your game’s theme:
+
+This game is the journey of a guy who started going to the gym. He has to face different enemies: from burgers to alcohol. However, there are also some items that are going to help him achieve his goal and win the game: weights and steroids. It is common knowledge that steroids are not good, but for this guy, it is a boost that will help him become more muscular. 
+
+Details of your custom features and game mechanics
+	1	As the player progresses, the character’s skin is going to change. There are 3 different characters that can be unlocked.
+	2	The background image is a gym: this is the place where our player has to play
+	3	Splash Screens: There are two splash screens, one has the game’s title and the other one has the game’s instructions
+	4	Lost/Win Screens: If the player wins, a screen of the Olimpo is going to show up. Otherwise, a motivational message is going to show up.
+	5	Hearts: I incorporated hearts in the top left of the screen showing the player’s hp.
+	6	Burgers that speed up and go to you taking 2 hp out of you.
+The specific win and lose conditions for the game
+
+WIN: Get 300 Points. Steroids and dumbbells increase your score.
+LOSE: Get 0 HP. Burgers and alcohol reduce your HP.
+
+Sources for any "borrowed" assets (images, sound effects, etc)
+
+1. INITIAL_SPLASH_SCREEN: 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fgym-background%2F325721295&psig=AOvVaw2X7DG8BKhWfzGiA-HopkKe&ust=1682793127261000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjzi4ubzf4CFQAAAAAdAAAAABAD
+
+2. OLIMPO:
+https://labvanitas.com/wp-content/uploads/2020/04/olimpo-griego.png
+
+3. LOSE_SPLASH_SCREEN:
+https://c4.wallpaperflare.com/wallpaper/958/980/900/pull-ups-man-workout-bw-wallpaper-preview.jpg
